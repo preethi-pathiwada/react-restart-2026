@@ -18,7 +18,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ###Learning
 
 form noValidate attribute
-no individual state for evry input but an obj called formData
+no individual state for every input but an obj called formData
 errors obj with state
 disabled
 name and value fields for the input elements
