@@ -1,0 +1,16 @@
+
+  .bg-page{
+    padding: 20px;
+  }
+
+  .heading{
+    font-size: 16px;
+    font-style: bold;
+  }
+
+  .list-container{
+    list-style-type: none;
+    padding-left: 0;
+    text-align: left;
+  }
+  
